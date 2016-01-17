@@ -6,8 +6,7 @@ Full howto on ZW Skins is available here: http://www.zooper.org/wp/android/zw/ap
 
 This project uses new gradle build system, so, in order to create a Skin:
   * Install Android Studio 0.3.0 or better
-  * Install Android SDK 18 or better and be sure to check Android Build Tools 18.0.1
-  * Copy "local.properties.sample" in "local.properties" and edit with your keystore data
+  * Install Android SDK 18 or better and be sure to check corresponding Android Build Tools
   * Import from Android Studio using "Import from external Mode" and select "Gradle"
   * Uncompress apkzip file in the asset directory
   * Edit AndroidManifest.xml and zooper.xml
